@@ -8,12 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://user-images.githubusercontent.com/110207602/219898354-1653d108-435f-4b0c-8acd-411698215d62.png
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/invite/b/GqhUbVdb/ATTIf8a89cf3ed6057d169acc7f42438f5fe76E99860/liftoff-2023
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Jan-23-Liftoff-KC/team-lindsay-group-repo
