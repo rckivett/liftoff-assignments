@@ -11,7 +11,7 @@ Our project is going to be a medical app primarily for doctors and other medical
 ### Features
 Features will include the ability for patients to set up appointments, will give doctors the ability to look at patient information, note prescribed medications, and keep notes for patient records.
 ### Technologies
-Technologies will include IntelliJ, Thymeleaf, Bootsrap, CSS, DTOs, and APIs.
+Technologies will include Java, JavaScript, Spring Boot, PostgreSQL.
 ### What I'll Have to Learn
 I'll have to learn a lot more about databases and how to pull information from databases as I feel like LC101 didn't spend enough time on database interaction within actual code to really be effective.
 ### Project Tracker
